@@ -11,6 +11,8 @@ export class OrderComponent {
 
   public isUpperCase: boolean = false;
 
+  //public canFly: boolean = false;
+
   public heroes: Hero[] = [
     {
       name: 'Superman',
