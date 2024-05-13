@@ -15,6 +15,7 @@ import localePtPt from '@angular/common/locales/pt-PT'
 
 import { registerLocaleData } from '@angular/common';
 
+
 registerLocaleData(localeEs);
 registerLocaleData(localePtPt);
 
@@ -27,7 +28,7 @@ registerLocaleData(localePtPt);
     BrowserModule,
     BrowserAnimationsModule,
     SharedModule,
-    MenuModule
+    MenuModule,
   ],
   providers: [
     provideAnimations(),
