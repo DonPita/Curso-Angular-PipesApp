@@ -1,6 +1,10 @@
 
 export enum Color {
-  red, black, blue, green, yellow
+  red = 'Red',
+  black = 'Black',
+  blue = 'Blue',
+  green = 'Green',
+  yellow = 'Yellow'
 }
 
 export interface Hero {

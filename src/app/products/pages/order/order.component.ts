@@ -32,7 +32,7 @@ export class OrderComponent {
     {
       name: 'Robin',
       canFly: false,
-      color: Color.green,
+      color: Color.yellow,
     },
     {
       name: 'Linterna Verde',
