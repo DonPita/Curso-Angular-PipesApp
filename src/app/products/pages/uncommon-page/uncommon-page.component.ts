@@ -31,4 +31,13 @@ export class UncommonPageComponent {
   deleteClient() {
     this.clients.shift();
   }
+
+  //KeyValue Pipe
+
+  public person = {
+    name: 'Adrian',
+    age: 35,
+    address: 'Santo Grial'
+  }
+
 }
