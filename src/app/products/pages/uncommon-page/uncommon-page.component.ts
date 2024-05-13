@@ -38,7 +38,7 @@ export class UncommonPageComponent {
   public person = {
     name: 'Adrian',
     age: 35,
-    address: 'Santo Grial'
+    address: 'Burkina Faso'
   }
 
   //Async Pipe
